@@ -5,5 +5,5 @@ Nothing very impressive but juste a begining for me.
 
 You want to test my minimal CLI RPG ? 
 -------------------------------------
-Import this as an existing projet into eclipse (or another java IDE)
+Import this repo. as an existing projet into eclipse (or another java IDE)
 
